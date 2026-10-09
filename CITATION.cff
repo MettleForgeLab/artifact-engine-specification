@@ -6,7 +6,7 @@ type: software
 authors:
   - name: "Mettle Forge Lab"
 
-repository-code: "https://github.com/MettleForgeLab/DADI-Engine"
+repository-code: "https://github.com/MettleForgeLab/artifact-engine-specification"
 
 license: "MIT"
 
